@@ -1,1 +1,1 @@
-# ArminSesek
+Website biografskog tipa, radjen u okviru freelance tima Three and One za profesora violine Armina Seseka.
